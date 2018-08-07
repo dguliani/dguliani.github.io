@@ -7,7 +7,7 @@ I am a Mechatronics Engineer with experience building software and embedded prod
 ### Machine Learning
 I am interested in understanding and explaining machine learning concepts from first principles. As research remains the dominant source of impactful innovation in machine learning, my objective is to landmark research. Specifically, I want to synthesize periodically the advances in different branches of ML as cornerstones of progress to be easily referenced by the broad community of researchers and practitioners. This is a large task, in an even larger field, and so I look forward to collaborating with others on this mission.  
 
-*If my work or vision resonate with you, please reach out at dhruv[ dot ]guliani[ @ ]gmail[ dot ]com to have a chat/collaborate.*
+*If my work or vision resonate with you, please reach out to have a chat/collaborate.*
 
 ### Timeline
 * 2017 - Present: Software Engineer, Connected Lab
@@ -25,3 +25,8 @@ Writing is a fundamental exercise in the synthesis of learnings and experiences.
 ### Post Topics 
 * [A Hands-On Introduction to Neural Networks](https://hackernoon.com/a-hands-on-introduction-to-neural-networks-6a03afb468b1) 
 * [ICML Accepted Paper Stats (2018)](https://medium.com/connected-lab/icml-accepted-papers-stats-2018-1f9c0a9a6eaf)
+
+* * * 
+
+## Contact 
+Email: dhruv [ dot ] guliani [ at ] gmail [ dot ] com
