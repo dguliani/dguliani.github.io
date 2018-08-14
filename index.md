@@ -23,6 +23,7 @@ I am interested in understanding and explaining machine learning concepts from f
 Writing is a fundamental exercise in the synthesis of learnings and experiences. Find [my blog on medium](https://medium.com/@dhruvguliani) to be a collection of writings on things that most engage me. Any and all feedback on these writings is welcome. 
 
 ### Post Topics 
+* [Takeaways from the International Conference on Machine Learning (2018)](https://towardsdatascience.com/takeaways-from-the-international-conference-on-machine-learning-72d36b0c038) 
 * [A Hands-On Introduction to Neural Networks](https://hackernoon.com/a-hands-on-introduction-to-neural-networks-6a03afb468b1) 
 * [ICML Accepted Paper Stats (2018)](https://medium.com/connected-lab/icml-accepted-papers-stats-2018-1f9c0a9a6eaf)
 
